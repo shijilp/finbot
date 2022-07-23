@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-finbot-dev-145459-authRole",
+      "UnauthRoleArn": "arn:aws:iam::205162697383:role/amplify-finbot-dev-145459-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::205162697383:role/amplify-finbot-dev-145459-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-finbot-dev-145459-deployment",
+      "UnauthRoleName": "amplify-finbot-dev-145459-unauthRole",
+      "StackName": "amplify-finbot-dev-145459",
+      "StackId": "arn:aws:cloudformation:us-west-2:205162697383:stack/amplify-finbot-dev-145459/4af12c70-0a7e-11ed-87fd-026826ec4919",
+      "AmplifyAppId": "dihns2xrp77sh"
+    },
+    "categories": {
+      "auth": {
+        "finbotcd1f56e4": {}
+      }
+    }
+  }
+}

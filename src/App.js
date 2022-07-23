@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src="../images/finlogo.png" className="App-logo" alt="logo" />
         <p>
-          Loading Soon.......!
+          Loading Soon.......!!
         </p>
         
       </header>
